@@ -1,5 +1,5 @@
-// Name: Prikshit
-// PRN: 23070126094
+// Name: Sarthak 
+// PRN: 23070126088
 //Batch-AIML_B1
 public class MainThreadDemo {
     public static void main(String[] args) {
